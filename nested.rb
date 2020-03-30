@@ -80,7 +80,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
+		 programmer_hash[:yukihoro_matsumoto] = "languages"
 
 end
 
